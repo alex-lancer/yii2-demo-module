@@ -1,6 +1,6 @@
 <?php
 
-namespace app\src\demomodule;
+namespace akam\demomodule;
 
 class Module extends \yii\base\Module
 {

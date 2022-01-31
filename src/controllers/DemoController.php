@@ -1,6 +1,6 @@
 <?php
 
-namespace app\src\demomodule\controllers;
+namespace akam\demomodule\controllers;
 
 
 use Yii;

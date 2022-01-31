@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "akam\\yii2-module-basic-demo\\": "src/"
+            "akam\\demomodule\\": "src/"
         }
     },
     "require": {

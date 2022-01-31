@@ -13,6 +13,11 @@
         "source": "https://github.com/yiisoft/yii2"
     },
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "akam\\yii2-module-basic-demo\\": "src/"
+        }
+    },
     "require": {
         "php": ">=5.6.0",
         "yiisoft/yii2": "~2.0.14",
